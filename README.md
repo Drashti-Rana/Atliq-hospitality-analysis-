@@ -21,7 +21,7 @@ The primary objective of this project is to provide Atliq Grands with insightful
 - Total no. Of Guests:274134
 - Total no. Of Guests who cancelled bookings:67949
 - Total no. Of Guests who no show:13736
-- Total no. Of Guests who cheked out:192449
+- Total no. Of Guests who checked out:192449
 - weekend occupancy: 58.9%
 - weekday Occupancy: 41.1%
 ## Conclusion:
